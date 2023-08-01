@@ -9,8 +9,8 @@
   align-items: center; */
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
-}
+
+} 
 
 
 
@@ -38,9 +38,9 @@
   }
 } */
 
-/* .container{
+ .image-container{
     height: 100vh; 
    display: flex;
    flex-wrap:wrap ;
    justify-content: space-between;
-} */
+} 
