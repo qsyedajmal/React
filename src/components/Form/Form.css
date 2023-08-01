@@ -7,35 +7,13 @@
 justify-content-center align-items-center */
 .container {
   width: 420px;
-  background: #92a7ba;
-  border-radius: 10px;
-  padding: 30px 40px;
-  opacity: 70%;
 }
 
 input {
     border-radius: 20px;
 }
 
-.container .input-box{
-  width: 100%;
-  margin-top: 50px;
-}
-
-.container .btn{
-  margin-top: 40px;
-  width: 75%;
-  background: white;
-  height: 40px;
-  border-radius: 40px;
-  border-color: #92a7ba;
-  cursor: pointer;
-  color: #92a7ba;
-}
-.container .box{
-  margin-top: 50px;
-}
-
-.input-box input{
-  background: transparent;
+container h1{
+    font-size: 36px;
+    text-align: center;
 }

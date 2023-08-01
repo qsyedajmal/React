@@ -1,0 +1,22 @@
+.row{
+    background-color: black;
+    height: 80px;
+}
+
+.col{
+    background-color: gray;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.bottom{
+    border-bottom-color: gray ;
+}
+
+.top{
+    border-top-color: gray ;
+}
+
+.tbl{
+    height: 100vh;
+}
