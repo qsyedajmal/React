@@ -9,39 +9,35 @@ function App() {
   return (
      <div className="App">
         
-       <header className="App-header">
+      <header className="App-header">
         {/* <Form/> */}
+
         <HNavBar/> 
+
         <GridComponent/> 
+        
         <SideBar/>
+
         <div className='container'>
           <div className='image-container'>
           <Image/>
-     <Image/>
-     <Image/>
-     <Image/>
-     <Image/>
-     <Image/>
-     <Image/>
-     <Image/>
-     <Image/>
-     <Image/>
-     <Image/>
-     <Image/> 
-  
-     </div>
+          <Image/>
+          <Image/>
+          <Image/>
+          <Image/>
+          <Image/>
+          <Image/>
+          <Image/>
+          <Image/>
+          <Image/>
+          <Image/>
+          <Image/> 
           </div>
+        </div>
  
         
-       </header>    
-       
-
-  
-
-        
-     
-
-       
+      </header>    
+      
      </div>
       
 

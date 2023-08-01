@@ -1,5 +1,13 @@
 .image{
     width: 100px;
     height: 100px;
-    margin: 100px;
+    margin: 70px;
+}
+
+@media (min-width:1281px){
+    .image{
+        width: 100px;
+        height: 100px;
+        margin: 100px;
+    }
 }
